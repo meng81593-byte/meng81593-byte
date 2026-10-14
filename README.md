@@ -26,10 +26,12 @@ A team-created Phaser browser game that I continued updating, packaged with Dock
 
 **Focus:** reproducible builds, containers, CI, and application delivery.
 
-## Current work
+[Play the HTTPS demo](https://meng81593-byte.github.io/little-steps-devops/) · [See the verified AWS release](https://github.com/meng81593-byte/little-steps-devops/actions/runs/38591646137)
 
-- Strengthening automated checks and regression tests.
-- Connecting Terraform networking to a verifiable deployment workflow.
-- Documenting health checks, recovery, and experiment cleanup.
+## Project evidence
+
+- Automated infrastructure and application quality checks, including running-container browser tests.
+- A verified GitHub OIDC → ECR → ECS release using an immutable image digest.
+- A failed-health deployment, automatic recovery, and same-day cleanup recorded in [the verification notes](https://github.com/meng81593-byte/aws-terraform-network-lab/blob/main/docs/verification.md).
 
 Explore the pinned repositories for source code, architecture, setup instructions, and project evidence.
