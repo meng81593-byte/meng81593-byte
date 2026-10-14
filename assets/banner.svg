@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title description">
+  <title id="title">Meng — Cloud infrastructure and application delivery</title>
+  <desc id="description">A blue cloud and delivery themed banner with the words build, test and deploy.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#101d35"/><stop offset="1" stop-color="#164268"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b5ddff" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="240" rx="16" fill="url(#background)"/>
+  <rect width="1200" height="240" rx="16" fill="url(#grid)"/>
+  <circle cx="1170" cy="25" r="160" fill="#66d9ef" opacity=".06"/>
+  <text x="64" y="77" fill="#77d6e8" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">CLOUD INFRASTRUCTURE · APPLICATION DELIVERY</text>
+  <text x="60" y="144" fill="#f3f7fc" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">Hi, I'm Meng.</text>
+  <text x="64" y="190" fill="#b9cfe4" font-family="Segoe UI,Arial,sans-serif" font-size="22">Aspiring DevOps / Cloud Engineer</text>
+  <path d="M805 119H1104" stroke="#62c6dd" stroke-width="2" stroke-dasharray="6 6" opacity=".55"/>
+  <g fill="#153654" stroke="#62c6dd" stroke-width="2"><rect x="760" y="80" width="100" height="78" rx="12"/><rect x="895" y="80" width="100" height="78" rx="12"/><rect x="1030" y="80" width="100" height="78" rx="12"/></g>
+  <g fill="#eef8ff" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle"><text x="810" y="126">BUILD</text><text x="945" y="126">TEST</text><text x="1080" y="126">DEPLOY</text></g>
+</svg>

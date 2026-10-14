@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Meng</h1>
+![Meng — Cloud infrastructure and application delivery](assets/banner.svg)
 <p align="center">Aspiring DevOps / Cloud Engineer · Cloud infrastructure & application delivery</p>
 
 <p align="center">
